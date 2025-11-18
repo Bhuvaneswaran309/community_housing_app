@@ -1,0 +1,16 @@
+# Python backend
+__pycache__/
+venv/
+*.pyc
+
+# Node.js frontend
+node_modules/
+npm-debug.log
+dist/
+build/
+
+# Environment files
+.env
+
+# VS Code settings
+.vscode/
